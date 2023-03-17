@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/crud-app/precache-manifest.61f89181479a97eb67343bde54b4da47.js"
+  "/crud-app/precache-manifest.c9018c8822ed6b5329ce5622527730f4.js"
 );
 
 workbox.clientsClaim();
