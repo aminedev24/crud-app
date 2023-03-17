@@ -1,15 +1,15 @@
 {
-  "main.css": "/aminedev24/crud-app/static/css/main.ea382417.chunk.css",
-  "main.js": "/aminedev24/crud-app/static/js/main.2e87b29e.chunk.js",
-  "main.js.map": "/aminedev24/crud-app/static/js/main.2e87b29e.chunk.js.map",
-  "static/js/1.046e0513.chunk.js": "/aminedev24/crud-app/static/js/1.046e0513.chunk.js",
-  "static/js/1.046e0513.chunk.js.map": "/aminedev24/crud-app/static/js/1.046e0513.chunk.js.map",
-  "static/js/2.eca6d1ce.chunk.js": "/aminedev24/crud-app/static/js/2.eca6d1ce.chunk.js",
-  "static/js/2.eca6d1ce.chunk.js.map": "/aminedev24/crud-app/static/js/2.eca6d1ce.chunk.js.map",
-  "runtime~main.js": "/aminedev24/crud-app/static/js/runtime~main.ebc47d19.js",
-  "runtime~main.js.map": "/aminedev24/crud-app/static/js/runtime~main.ebc47d19.js.map",
-  "static/css/main.ea382417.chunk.css.map": "/aminedev24/crud-app/static/css/main.ea382417.chunk.css.map",
-  "index.html": "/aminedev24/crud-app/index.html",
-  "precache-manifest.b79239aac7666b41fccd27ba76cd860a.js": "/aminedev24/crud-app/precache-manifest.b79239aac7666b41fccd27ba76cd860a.js",
-  "service-worker.js": "/aminedev24/crud-app/service-worker.js"
+  "main.css": "/crud-app/static/css/main.ea382417.chunk.css",
+  "main.js": "/crud-app/static/js/main.2e87b29e.chunk.js",
+  "main.js.map": "/crud-app/static/js/main.2e87b29e.chunk.js.map",
+  "static/js/1.046e0513.chunk.js": "/crud-app/static/js/1.046e0513.chunk.js",
+  "static/js/1.046e0513.chunk.js.map": "/crud-app/static/js/1.046e0513.chunk.js.map",
+  "static/js/2.eca6d1ce.chunk.js": "/crud-app/static/js/2.eca6d1ce.chunk.js",
+  "static/js/2.eca6d1ce.chunk.js.map": "/crud-app/static/js/2.eca6d1ce.chunk.js.map",
+  "runtime~main.js": "/crud-app/static/js/runtime~main.c5d15e55.js",
+  "runtime~main.js.map": "/crud-app/static/js/runtime~main.c5d15e55.js.map",
+  "static/css/main.ea382417.chunk.css.map": "/crud-app/static/css/main.ea382417.chunk.css.map",
+  "index.html": "/crud-app/index.html",
+  "precache-manifest.397917e2d6c738af6eba128910c5a3b3.js": "/crud-app/precache-manifest.397917e2d6c738af6eba128910c5a3b3.js",
+  "service-worker.js": "/crud-app/service-worker.js"
 }
